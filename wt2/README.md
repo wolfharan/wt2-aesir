@@ -1,4 +1,3 @@
-# minicourse-ajax-project
-Udacity Intro to AJAX course
+Web tech project using Ajax framework
 
-Project uses a Google Maps, Wikipedia and NY times API's, each one accessed a different way
+  We implemented predective fetch and periodic refresh with use of APIs to get data from New York times and Wikipedia.
